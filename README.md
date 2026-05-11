@@ -1,4 +1,3 @@
-# secure-iot-gateway
 
 # Secure IoT Gateway with MQTT, TLS and Authentication
 
